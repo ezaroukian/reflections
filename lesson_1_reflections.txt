@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+- It highlighted all the differences so I didn't have to spot them myself.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- Probably could save hours when something goes wrong (my experience with IBEX - What did I change??).
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+- Auto stored in a separate folder would be nice for when you forget, and you can ignore those commits otherwise.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+- I imagine google assumes your files are independent, whereas with coding you often have interdependent files. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+- ?
+
+How might using version control make you more confident to make changes that could break something?
+
+- Because if you commit appropriately, you can always go back!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+- I want to use it for getting files on IBEX!
