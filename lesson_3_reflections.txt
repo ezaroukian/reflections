@@ -13,3 +13,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 - I way way prefer dropbox for everything I do. This has an infuriating number of steps that I really resist making changes or doing an appropriate number of commits/pushes. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- We already talked about this. If you want to try something out without breaking the master or if you want to make clear that this is a separate take
